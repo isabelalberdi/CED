@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://isabelalberdi.github.io/CED/sitemap.xml
+Sitemap: https://web42.wonka.agro.uba.ar/sitemap.xml
