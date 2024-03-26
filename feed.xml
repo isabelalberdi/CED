@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>CED</title>
-    <link href="https://web42.wonka.agro.uba.ar/feed.xml" rel="self" />
-    <link href="https://web42.wonka.agro.uba.ar" />
+    <link href="http://web42.wonka.agro.uba.ar/feed.xml" rel="self" />
+    <link href="http://web42.wonka.agro.uba.ar" />
     <updated>2024-02-20T17:03:26-03:00</updated>
     <author>
         <name>CED</name>
     </author>
-    <id>https://web42.wonka.agro.uba.ar</id>
+    <id>http://web42.wonka.agro.uba.ar</id>
 
     <entry>
         <title>Sustentabilidad en los sistemas agropecuarios y naturales</title>
         <author>
             <name>CED</name>
         </author>
-        <link href="https://web42.wonka.agro.uba.ar/sustentabilidad-en-los-sistemas-agropecuarios-y-naturales/"/>
-        <id>https://web42.wonka.agro.uba.ar/sustentabilidad-en-los-sistemas-agropecuarios-y-naturales/</id>
+        <link href="http://web42.wonka.agro.uba.ar/sustentabilidad-en-los-sistemas-agropecuarios-y-naturales/"/>
+        <id>http://web42.wonka.agro.uba.ar/sustentabilidad-en-los-sistemas-agropecuarios-y-naturales/</id>
 
         <updated>2024-01-08T09:58:17-03:00</updated>
             <summary>
@@ -34,8 +34,8 @@
         <author>
             <name>CED</name>
         </author>
-        <link href="https://web42.wonka.agro.uba.ar/ambiente-y-memoria-social/"/>
-        <id>https://web42.wonka.agro.uba.ar/ambiente-y-memoria-social/</id>
+        <link href="http://web42.wonka.agro.uba.ar/ambiente-y-memoria-social/"/>
+        <id>http://web42.wonka.agro.uba.ar/ambiente-y-memoria-social/</id>
 
         <updated>2024-01-08T09:57:41-03:00</updated>
             <summary>
@@ -46,7 +46,7 @@
         <content type="html">
             <![CDATA[
                 <p>Proyecto Gran Chaco<br>La Facultad de Agronomía, Universidad de Buenos Aires, en su tarea de docencia, investigación, desarrollo y extensión está vinculada de diversas maneras con la región del Gran Chaco Americano. Esta región es escenario de fuertes pujas y conflictos de intereses entre el avance de la frontera agropecuaria y el ordenamiento territorial - Ley de Bosques. Temas ambientales, agronómicos, sociales y económicos están sujetos a debate.<br>Año:</p>
-<p><a href="https://web42.wonka.agro.uba.ar/proyectos-historicos/">Volver a proyectos históricos</a></p>
+<p><a href="http://web42.wonka.agro.uba.ar/proyectos-historicos/">Volver a proyectos históricos</a></p>
             ]]>
         </content>
     </entry>
@@ -55,8 +55,8 @@
         <author>
             <name>CED</name>
         </author>
-        <link href="https://web42.wonka.agro.uba.ar/jardin-botanico-virtual/"/>
-        <id>https://web42.wonka.agro.uba.ar/jardin-botanico-virtual/</id>
+        <link href="http://web42.wonka.agro.uba.ar/jardin-botanico-virtual/"/>
+        <id>http://web42.wonka.agro.uba.ar/jardin-botanico-virtual/</id>
 
         <updated>2024-01-08T09:56:53-03:00</updated>
             <summary>
@@ -67,7 +67,7 @@
         <content type="html">
             <![CDATA[
                 <p>El "Jardín Botánico Virtual Lorenzo R. Parodi" es un emprendimiento docente de la cátedra de Botánica Agrícola de la Facultad de Agronomía de la Universidad de Buenos Aires.Sobre la base de su labor dedicada a la Botánica Sistemática, se realiza este Jardín Botánico Virtual que tiene por finalidad, haciendo uso de los medios modernos de comunicación, el acercar, a los interesados, ejemplos que ayuden a afianzar los conocimientos en la diversidad de las plantas superiores, las Espermatófitas.<br>Año:</p>
-<p><a href="https://web42.wonka.agro.uba.ar/proyectos-historicos/">Volver a proyectos históricos</a></p>
+<p><a href="http://web42.wonka.agro.uba.ar/proyectos-historicos/">Volver a proyectos históricos</a></p>
             ]]>
         </content>
     </entry>
@@ -76,8 +76,8 @@
         <author>
             <name>CED</name>
         </author>
-        <link href="https://web42.wonka.agro.uba.ar/un-puente/"/>
-        <id>https://web42.wonka.agro.uba.ar/un-puente/</id>
+        <link href="http://web42.wonka.agro.uba.ar/un-puente/"/>
+        <id>http://web42.wonka.agro.uba.ar/un-puente/</id>
 
         <updated>2024-01-08T09:56:18-03:00</updated>
             <summary>
@@ -88,7 +88,7 @@
         <content type="html">
             <![CDATA[
                 <p>Un Puente desde la Facultad hasta las escuelas agropecuarias Proyecto Un Puente Año:</p>
-<p><a href="https://web42.wonka.agro.uba.ar/proyectos-historicos/">Volver a proyectos históricos</a></p>
+<p><a href="http://web42.wonka.agro.uba.ar/proyectos-historicos/">Volver a proyectos históricos</a></p>
             ]]>
         </content>
     </entry>
@@ -97,10 +97,10 @@
         <author>
             <name>CED</name>
         </author>
-        <link href="https://web42.wonka.agro.uba.ar/gran-chaco/"/>
-        <id>https://web42.wonka.agro.uba.ar/gran-chaco/</id>
+        <link href="http://web42.wonka.agro.uba.ar/gran-chaco/"/>
+        <id>http://web42.wonka.agro.uba.ar/gran-chaco/</id>
 
-        <updated>2024-01-10T10:43:16-03:00</updated>
+        <updated>2024-01-08T09:55:39-03:00</updated>
             <summary>
                 <![CDATA[
                     Gran Chaco, la Película Un documental sobre los desmontes en el chaco semiárido y su impacto sobre la calidad de vida de los pueblos originarios y criollos ver el documental Año: 2014 Volver a proyectos históricos
@@ -112,7 +112,7 @@
 <p>Un documental sobre los desmontes en el chaco semiárido y su impacto sobre la calidad de vida de los pueblos originarios y criollos</p>
 <p><a href="https://www.youtube.com/watch?v=pskk4jWdXnA" target="_blank" rel="noopener noreferrer">ver el documental</a> </p>
 <p> Año: 2014</p>
-<p><button><a href="https://web42.wonka.agro.uba.ar/proyectos-historicos/">Volver a proyectos históricos</a></button></p>
+<p><button><a href="http://web42.wonka.agro.uba.ar/proyectos-historicos/">Volver a proyectos históricos</a></button></p>
             ]]>
         </content>
     </entry>
@@ -121,10 +121,10 @@
         <author>
             <name>CED</name>
         </author>
-        <link href="https://web42.wonka.agro.uba.ar/maices-originarios/"/>
-        <id>https://web42.wonka.agro.uba.ar/maices-originarios/</id>
+        <link href="http://web42.wonka.agro.uba.ar/maices-originarios/"/>
+        <id>http://web42.wonka.agro.uba.ar/maices-originarios/</id>
 
-        <updated>2024-01-08T09:55:46-03:00</updated>
+        <updated>2024-01-08T09:54:42-03:00</updated>
             <summary>
                 <![CDATA[
                     descripción año Volver a proyectos históricos
@@ -134,7 +134,7 @@
             <![CDATA[
                 <p>descripción</p>
 <p>año</p>
-<p><a href="https://web42.wonka.agro.uba.ar/proyectos-historicos/">Volver a proyectos históricos</a></p>
+<p><a href="http://web42.wonka.agro.uba.ar/proyectos-historicos/">Volver a proyectos históricos</a></p>
             ]]>
         </content>
     </entry>
@@ -143,10 +143,10 @@
         <author>
             <name>CED</name>
         </author>
-        <link href="https://web42.wonka.agro.uba.ar/campus-virtual-faqs/"/>
-        <id>https://web42.wonka.agro.uba.ar/campus-virtual-faqs/</id>
+        <link href="http://web42.wonka.agro.uba.ar/campus-virtual-faqs/"/>
+        <id>http://web42.wonka.agro.uba.ar/campus-virtual-faqs/</id>
 
-        <updated>2024-01-31T11:56:14-03:00</updated>
+        <updated>2024-01-08T09:39:31-03:00</updated>
             <summary>
                 <![CDATA[
                     Tutoriales y Guías de ayuda para estudiantes y para docentes Respuestas a algunas de las preguntas frecuentes sobre el Campus Virtual de FAUBA. Si tenés otras preguntas por favor contactanos a cedist@agro.uba.ar ¿Necesito descargar una app para utilizar el Campus Virtual Fauba en dispositivos móviles?&hellip;
@@ -178,10 +178,10 @@
         <author>
             <name>CED</name>
         </author>
-        <link href="https://web42.wonka.agro.uba.ar/campus-virtual/"/>
-        <id>https://web42.wonka.agro.uba.ar/campus-virtual/</id>
+        <link href="http://web42.wonka.agro.uba.ar/campus-virtual/"/>
+        <id>http://web42.wonka.agro.uba.ar/campus-virtual/</id>
 
-        <updated>2024-02-20T17:03:26-03:00</updated>
+        <updated>2024-01-08T09:37:13-03:00</updated>
             <summary>
                 <![CDATA[
                     Entrar al Campus Virtual Nos podés pedir la creación de nuevos cursos. Dentro de los cursos exitentes podes pedir acciones en el Campus. Formulario para solicitar acciones dentro del Campus Virtual Tutoriales y Guías de ayuda para estudiantes y para docentes Preguntas frecuentes
@@ -197,7 +197,7 @@
 <hr>
 <h2>Asesoramiento y capacitación</h2>
 <p>Tutoriales y Guías de ayuda para <strong><a href="https://campus.agro.uba.ar/course/view.php?id=851" target="_blank" rel="noopener noreferrer">estudiantes</a></strong> y para <strong><a href="https://campus.agro.uba.ar/course/view.php?id=765" target="_blank" rel="noopener noreferrer">docentes</a></strong></p>
-<p><a href="https://web42.wonka.agro.uba.ar/campus-virtual-faqs/">Preguntas frecuentes</a></p>
+<p><a href="http://web42.wonka.agro.uba.ar/campus-virtual-faqs/">Preguntas frecuentes</a></p>
             ]]>
         </content>
     </entry>
@@ -206,10 +206,10 @@
         <author>
             <name>CED</name>
         </author>
-        <link href="https://web42.wonka.agro.uba.ar/audiovisuales/"/>
-        <id>https://web42.wonka.agro.uba.ar/audiovisuales/</id>
+        <link href="http://web42.wonka.agro.uba.ar/audiovisuales/"/>
+        <id>http://web42.wonka.agro.uba.ar/audiovisuales/</id>
 
-        <updated>2024-01-11T11:39:22-03:00</updated>
+        <updated>2024-01-08T09:32:27-03:00</updated>
             <summary>
                 <![CDATA[
                     Co-desarrollamos junto a las cátedras cortos y largometrajes con fines educativos dentro de la facultad. Conocé el material que realizamos Contactános por este servicio
@@ -219,7 +219,7 @@
             <![CDATA[
                 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/qTy9eOdYeDY" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <p>Co-desarrollamos junto a las cátedras cortos y largometrajes con fines educativos dentro de la facultad.</p>
-<p><a href="https://web42.wonka.agro.uba.ar/proyectos-historicos/">Conocé el material que realizamos</a></p>
+<p><a href="http://web42.wonka.agro.uba.ar/proyectos-historicos/">Conocé el material que realizamos</a></p>
 <p><a href="https://forms.gle/kEbsV2JPDeFxMpau9" target="_blank" rel="noopener noreferrer">Contactános por este servicio</a></p>
             ]]>
         </content>
@@ -229,10 +229,10 @@
         <author>
             <name>CED</name>
         </author>
-        <link href="https://web42.wonka.agro.uba.ar/asesoria-tecnopedagogica/"/>
-        <id>https://web42.wonka.agro.uba.ar/asesoria-tecnopedagogica/</id>
+        <link href="http://web42.wonka.agro.uba.ar/asesoria-tecnopedagogica/"/>
+        <id>http://web42.wonka.agro.uba.ar/asesoria-tecnopedagogica/</id>
 
-        <updated>2024-02-06T09:16:10-03:00</updated>
+        <updated>2024-01-08T09:23:18-03:00</updated>
             <summary>
                 <![CDATA[
                     ¿Querés aprender a incorporar herramientas tecnológicas en tus clases? ¿Tenés un/a experto/a que no puede venir a tu clase pero sería muy enriquecedor que le cuente sus saberes a tus estudiantes y luego tus estudiantes le hagan algunas preguntas? ¿Querés incorporar algunos videos explicativos o&hellip;
