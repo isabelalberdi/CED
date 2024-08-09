@@ -1,31 +1,161 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>CED reducido</title>
-    <link href="https://ced.agro.uba.ar/feed.xml" rel="self" />
-    <link href="https://ced.agro.uba.ar" />
-    <updated>2024-04-05T11:44:28-03:00</updated>
+    <title>CED</title>
+    <link href="http://web42.wonka.agro.uba.ar/feed.xml" rel="self" />
+    <link href="http://web42.wonka.agro.uba.ar" />
+    <updated>2024-02-20T17:03:26-03:00</updated>
     <author>
         <name>CED</name>
     </author>
-    <id>https://ced.agro.uba.ar</id>
+    <id>http://web42.wonka.agro.uba.ar</id>
 
     <entry>
-        <title>Preguntas frecuentes sobre el Campus Virtual</title>
+        <title>Sustentabilidad en los sistemas agropecuarios y naturales</title>
         <author>
             <name>CED</name>
         </author>
-        <link href="https://ced.agro.uba.ar/campus-virtual-faqs/"/>
-        <id>https://ced.agro.uba.ar/campus-virtual-faqs/</id>
+        <link href="http://web42.wonka.agro.uba.ar/sustentabilidad-en-los-sistemas-agropecuarios-y-naturales/"/>
+        <id>http://web42.wonka.agro.uba.ar/sustentabilidad-en-los-sistemas-agropecuarios-y-naturales/</id>
 
-        <updated>2024-01-08T09:39:31-03:00</updated>
+        <updated>2024-01-08T09:58:17-03:00</updated>
             <summary>
                 <![CDATA[
-                    Respuestas a algunas de las preguntas frecuentes sobre el Campus Virtual de FAUBA. Si tenés otras preguntas por favor contactanos a cedist@agro.uba.ar ¿Necesito descargar una app para utilizar el Campus Virtual Fauba en dispositivos móviles? No, no es necesario que descargues ninguna aplicación. Podés emplear&hellip;
+                    https://ced.agro.uba.ar/ubatic/ El presente proyecto tiene como objetivo generar un dispositivo de integración interdepartamental en un tema socialmente relevante a través del uso de las TIC con participación de docentes y estudiantes. Año:
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Respuestas a algunas de las preguntas frecuentes sobre el Campus Virtual de FAUBA. Si tenés otras preguntas por favor contactanos a <a href="mailto:cedist@agro.uba.ar" target="_blank" rel="noreferrer noopener">cedist@agro.uba.ar</a></p>
+                <p><a href="https://ced.agro.uba.ar/ubatic/" target="_blank" rel="noopener noreferrer">https://ced.agro.uba.ar/ubatic/</a><br><br>El presente proyecto tiene como objetivo generar un dispositivo de integración interdepartamental en un tema socialmente relevante a través del uso de las TIC con participación de docentes y estudiantes.<br><br>Año:</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Ambiente y memoria social</title>
+        <author>
+            <name>CED</name>
+        </author>
+        <link href="http://web42.wonka.agro.uba.ar/ambiente-y-memoria-social/"/>
+        <id>http://web42.wonka.agro.uba.ar/ambiente-y-memoria-social/</id>
+
+        <updated>2024-01-08T09:57:41-03:00</updated>
+            <summary>
+                <![CDATA[
+                    Proyecto Gran Chaco La Facultad de Agronomía, Universidad de Buenos Aires, en su tarea de docencia, investigación, desarrollo y extensión está vinculada de diversas maneras con la región del Gran Chaco Americano. Esta región es escenario de fuertes pujas y conflictos de intereses entre el&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Proyecto Gran Chaco<br>La Facultad de Agronomía, Universidad de Buenos Aires, en su tarea de docencia, investigación, desarrollo y extensión está vinculada de diversas maneras con la región del Gran Chaco Americano. Esta región es escenario de fuertes pujas y conflictos de intereses entre el avance de la frontera agropecuaria y el ordenamiento territorial - Ley de Bosques. Temas ambientales, agronómicos, sociales y económicos están sujetos a debate.<br>Año:</p>
+<p><a href="http://web42.wonka.agro.uba.ar/proyectos-historicos/">Volver a proyectos históricos</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Jardín Botánico Virtual</title>
+        <author>
+            <name>CED</name>
+        </author>
+        <link href="http://web42.wonka.agro.uba.ar/jardin-botanico-virtual/"/>
+        <id>http://web42.wonka.agro.uba.ar/jardin-botanico-virtual/</id>
+
+        <updated>2024-01-08T09:56:53-03:00</updated>
+            <summary>
+                <![CDATA[
+                    El "Jardín Botánico Virtual Lorenzo R. Parodi" es un emprendimiento docente de la cátedra de Botánica Agrícola de la Facultad de Agronomía de la Universidad de Buenos Aires.Sobre la base de su labor dedicada a la Botánica Sistemática, se realiza este Jardín Botánico Virtual que&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>El "Jardín Botánico Virtual Lorenzo R. Parodi" es un emprendimiento docente de la cátedra de Botánica Agrícola de la Facultad de Agronomía de la Universidad de Buenos Aires.Sobre la base de su labor dedicada a la Botánica Sistemática, se realiza este Jardín Botánico Virtual que tiene por finalidad, haciendo uso de los medios modernos de comunicación, el acercar, a los interesados, ejemplos que ayuden a afianzar los conocimientos en la diversidad de las plantas superiores, las Espermatófitas.<br>Año:</p>
+<p><a href="http://web42.wonka.agro.uba.ar/proyectos-historicos/">Volver a proyectos históricos</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Un puente</title>
+        <author>
+            <name>CED</name>
+        </author>
+        <link href="http://web42.wonka.agro.uba.ar/un-puente/"/>
+        <id>http://web42.wonka.agro.uba.ar/un-puente/</id>
+
+        <updated>2024-01-08T09:56:18-03:00</updated>
+            <summary>
+                <![CDATA[
+                    Un Puente desde la Facultad hasta las escuelas agropecuarias Proyecto Un Puente Año: Volver a proyectos históricos
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Un Puente desde la Facultad hasta las escuelas agropecuarias Proyecto Un Puente Año:</p>
+<p><a href="http://web42.wonka.agro.uba.ar/proyectos-historicos/">Volver a proyectos históricos</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Gran Chaco</title>
+        <author>
+            <name>CED</name>
+        </author>
+        <link href="http://web42.wonka.agro.uba.ar/gran-chaco/"/>
+        <id>http://web42.wonka.agro.uba.ar/gran-chaco/</id>
+
+        <updated>2024-01-08T09:55:39-03:00</updated>
+            <summary>
+                <![CDATA[
+                    Gran Chaco, la Película Un documental sobre los desmontes en el chaco semiárido y su impacto sobre la calidad de vida de los pueblos originarios y criollos ver el documental Año: 2014 Volver a proyectos históricos
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2>Gran Chaco, la Película </h2>
+<p>Un documental sobre los desmontes en el chaco semiárido y su impacto sobre la calidad de vida de los pueblos originarios y criollos</p>
+<p><a href="https://www.youtube.com/watch?v=pskk4jWdXnA" target="_blank" rel="noopener noreferrer">ver el documental</a> </p>
+<p> Año: 2014</p>
+<p><button><a href="http://web42.wonka.agro.uba.ar/proyectos-historicos/">Volver a proyectos históricos</a></button></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Maices Originarios</title>
+        <author>
+            <name>CED</name>
+        </author>
+        <link href="http://web42.wonka.agro.uba.ar/maices-originarios/"/>
+        <id>http://web42.wonka.agro.uba.ar/maices-originarios/</id>
+
+        <updated>2024-01-08T09:54:42-03:00</updated>
+            <summary>
+                <![CDATA[
+                    descripción año Volver a proyectos históricos
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>descripción</p>
+<p>año</p>
+<p><a href="http://web42.wonka.agro.uba.ar/proyectos-historicos/">Volver a proyectos históricos</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Ayuda sobre el uso del Campus Virtual</title>
+        <author>
+            <name>CED</name>
+        </author>
+        <link href="http://web42.wonka.agro.uba.ar/campus-virtual-faqs/"/>
+        <id>http://web42.wonka.agro.uba.ar/campus-virtual-faqs/</id>
+
+        <updated>2024-01-08T09:39:31-03:00</updated>
+            <summary>
+                <![CDATA[
+                    Tutoriales y Guías de ayuda para estudiantes y para docentes Respuestas a algunas de las preguntas frecuentes sobre el Campus Virtual de FAUBA. Si tenés otras preguntas por favor contactanos a cedist@agro.uba.ar ¿Necesito descargar una app para utilizar el Campus Virtual Fauba en dispositivos móviles?&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Tutoriales y Guías de ayuda para <strong><a href="https://campus.agro.uba.ar/course/view.php?id=851" target="_blank" rel="noopener noreferrer">estudiantes</a></strong> y para <strong><a href="https://campus.agro.uba.ar/course/view.php?id=765" target="_blank" rel="noopener noreferrer">docentes</a></strong></p>
+<p>Respuestas a algunas de las preguntas frecuentes sobre el Campus Virtual de FAUBA. Si tenés otras preguntas por favor contactanos a <a href="mailto:cedist@agro.uba.ar" target="_blank" rel="noreferrer noopener">cedist@agro.uba.ar</a></p>
 <ul>
 <li><strong>¿Necesito descargar una app para utilizar el Campus Virtual Fauba en dispositivos móviles?</strong></li>
 <li>No, no es necesario que descargues ninguna aplicación. Podés emplear el Campus Virtual desde cualquier dispositivo. Su diseño se adapta al soporte que utilices de manera automática.</li>
@@ -48,28 +178,26 @@
         <author>
             <name>CED</name>
         </author>
-        <link href="https://ced.agro.uba.ar/campus-virtual/"/>
-        <id>https://ced.agro.uba.ar/campus-virtual/</id>
+        <link href="http://web42.wonka.agro.uba.ar/campus-virtual/"/>
+        <id>http://web42.wonka.agro.uba.ar/campus-virtual/</id>
 
         <updated>2024-01-08T09:37:13-03:00</updated>
             <summary>
                 <![CDATA[
-                    Entrar al Campus Virtual Nos podés pedir la creación de nuevos cursos. Dentro de tus cursos existentes podes pedir acciones. Formulario para solicitar acciones dentro del Campus Virtual Ofrecemos un esapcio de tutoriales y guías de ayuda para estudiantes y docentes Podes consultar las Preguntas&hellip;
+                    Entrar al Campus Virtual Nos podés pedir la creación de nuevos cursos. Dentro de los cursos exitentes podes pedir acciones en el Campus. Formulario para solicitar acciones dentro del Campus Virtual Tutoriales y Guías de ayuda para estudiantes y para docentes Preguntas frecuentes
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p><a href="https://campus.agro.uba.ar" class="btn hero__btn" target="_blank" rel="noopener noreferrer">Entrar al Campus Virtual</a></p>
 <hr>
-<h2>Solicitar ayuda sobre el Campus</h2>
-<p>Nos podés pedir la creación de nuevos cursos.</p>
-<p>Dentro de tus cursos existentes podes pedir acciones.</p>
+<h2>Solicitar cursos y acciones</h2>
+<p>Nos podés pedir la creación de nuevos cursos. Dentro de los cursos exitentes podes pedir acciones en el Campus.</p>
 <p class="msg msg--info"><a href="https://forms.gle/u3gqyUiDwe9yhEZg7" target="_blank" rel="noopener noreferrer">Formulario para solicitar acciones dentro del Campus Virtual</a></p>
 <hr>
 <h2>Asesoramiento y capacitación</h2>
-<p>Ofrecemos un esapcio de tutoriales y guías de ayuda para <strong><a href="https://campus.agro.uba.ar/course/view.php?id=851" target="_blank" rel="noopener noreferrer">estudiantes</a></strong> y <strong><a href="https://campus.agro.uba.ar/course/view.php?id=765" target="_blank" rel="noopener noreferrer">docentes</a></strong></p>
-<p>Podes consultar las <a href="https://ced.agro.uba.ar/campus-virtual-faqs/">Preguntas frecuentes</a></p>
-<p>o enviarnos tu consulta a <a href="#INTERNAL_LINK#/null/undefined" target="_blank" rel="noopener noreferrer">cedist@agro.uba.ar</a></p>
+<p>Tutoriales y Guías de ayuda para <strong><a href="https://campus.agro.uba.ar/course/view.php?id=851" target="_blank" rel="noopener noreferrer">estudiantes</a></strong> y para <strong><a href="https://campus.agro.uba.ar/course/view.php?id=765" target="_blank" rel="noopener noreferrer">docentes</a></strong></p>
+<p><a href="http://web42.wonka.agro.uba.ar/campus-virtual-faqs/">Preguntas frecuentes</a></p>
             ]]>
         </content>
     </entry>
@@ -78,8 +206,8 @@
         <author>
             <name>CED</name>
         </author>
-        <link href="https://ced.agro.uba.ar/audiovisuales/"/>
-        <id>https://ced.agro.uba.ar/audiovisuales/</id>
+        <link href="http://web42.wonka.agro.uba.ar/audiovisuales/"/>
+        <id>http://web42.wonka.agro.uba.ar/audiovisuales/</id>
 
         <updated>2024-01-08T09:32:27-03:00</updated>
             <summary>
@@ -91,7 +219,7 @@
             <![CDATA[
                 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/qTy9eOdYeDY" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <p>Co-desarrollamos junto a las cátedras cortos y largometrajes con fines educativos dentro de la facultad.</p>
-<p><a href="https://ced.agro.uba.ar/proyectos-historicos/">Conocé el material que realizamos</a></p>
+<p><a href="http://web42.wonka.agro.uba.ar/proyectos-historicos/">Conocé el material que realizamos</a></p>
 <p><a href="https://forms.gle/kEbsV2JPDeFxMpau9" target="_blank" rel="noopener noreferrer">Contactános por este servicio</a></p>
             ]]>
         </content>
@@ -101,8 +229,8 @@
         <author>
             <name>CED</name>
         </author>
-        <link href="https://ced.agro.uba.ar/asesoria-tecnopedagogica/"/>
-        <id>https://ced.agro.uba.ar/asesoria-tecnopedagogica/</id>
+        <link href="http://web42.wonka.agro.uba.ar/asesoria-tecnopedagogica/"/>
+        <id>http://web42.wonka.agro.uba.ar/asesoria-tecnopedagogica/</id>
 
         <updated>2024-01-08T09:23:18-03:00</updated>
             <summary>
@@ -112,237 +240,8 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <p>¿Querés aprender a incorporar herramientas tecnológicas en tus clases?</p>
-<p>¿Tenés un/a experto/a que no puede venir a tu clase pero sería muy enriquecedor que le cuente sus saberes a tus estudiantes y luego tus estudiantes le hagan algunas preguntas?</p>
-<p>¿Querés incorporar algunos videos explicativos o cuestionarios autogestionados? etc.).</p>
-<p>En el CED brindamos asesoría tecnopedagógica. Acercate, estamos en el pabellón de Bioquimica, hablemos y contruyamos juntos.</p>
-<p>o envianos un mail a <a href="#INTERNAL_LINK#/null/undefined" target="_blank" rel="noopener noreferrer">szwarcberg@agro.uba.ar</a></p>
-<p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Contacto</title>
-        <author>
-            <name>CED</name>
-        </author>
-        <link href="https://ced.agro.uba.ar/contacto/"/>
-        <id>https://ced.agro.uba.ar/contacto/</id>
-
-        <updated>2023-10-31T11:18:59-03:00</updated>
-            <summary>
-                <![CDATA[
-                    CED Centro de Educación a Distancia Miguel Van Esso Facultad de Agronomía Universidad de Buenos Aires Teléfono: 054-11-528-7000 (Int. 70036) Dirección: Av. San Martín 4453 (C1417DSE) Buenos Aires mail: cedist@agro.uba.ar www.agro.uba.ar/ced
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <h2><strong>CED</strong></h2>
-<p><strong>Centro de Educación a Distancia</strong><br><em>Miguel Van Esso</em><br>Facultad de Agronomía Universidad de Buenos Aires</p>
-<ul style="list-style-type: circle;">
-<li>Teléfono: 054-11-528-7000 (Int. 70036)</li>
-<li>Dirección: Av. San Martín 4453 (C1417DSE) Buenos Aires</li>
-<li>mail: <a href="mailto:cedist@agro.uba.ar">cedist@agro.uba.ar</a></li>
-<li><a href="#INTERNAL_LINK#/null/undefined" target="_blank" rel="noopener noreferrer">www.agro.uba.ar/ced</a></li>
-</ul>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Aula Híbrida</title>
-        <author>
-            <name>CED</name>
-        </author>
-        <link href="https://ced.agro.uba.ar/servicios/"/>
-        <id>https://ced.agro.uba.ar/servicios/</id>
-
-        <updated>2023-10-31T11:15:19-03:00</updated>
-            <summary>
-                <![CDATA[
-                    Aula híbrida CED Contamos con Aulas híbridas en toda la facultad Las aulas híbridas posibilitan clases, concursos, reuniones, charlas; de forma presencial y remota simultáneamente; sincrónica y asincrónicamente. Acercate al CED para asesorarte sobre posibilidades y formas de uso. Para solicitar el uso del aula&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <figure ><figure class="post__image post__image--wide"><img loading="lazy"  src="https://ced.agro.uba.ar/media/posts/6/aulas-hibridas-3_0.jpeg" alt="Aula híbrida CED" width="450" height="300" sizes="100vw" srcset="https://ced.agro.uba.ar/media/posts/6/responsive/aulas-hibridas-3_0-xs.jpeg 300w ,https://ced.agro.uba.ar/media/posts/6/responsive/aulas-hibridas-3_0-sm.jpeg 480w ,https://ced.agro.uba.ar/media/posts/6/responsive/aulas-hibridas-3_0-md.jpeg 768w ,https://ced.agro.uba.ar/media/posts/6/responsive/aulas-hibridas-3_0-lg.jpeg 1024w ,https://ced.agro.uba.ar/media/posts/6/responsive/aulas-hibridas-3_0-xl.jpeg 1360w ,https://ced.agro.uba.ar/media/posts/6/responsive/aulas-hibridas-3_0-2xl.jpeg 1600w"></figure>
-<figcaption >Aula híbrida CED</figcaption>
-</figure>
-<p><strong>Contamos con Aulas híbridas en toda la facultad</strong><br>Las aulas híbridas posibilitan clases, concursos, reuniones, charlas; de forma presencial y remota simultáneamente; sincrónica y asincrónicamente. <br><br>Acercate al CED para asesorarte sobre posibilidades y formas de uso.</p>
-<p>Para solicitar el uso del aula híbrida del CED envianos el formulario. Te ofrecemos los equipos y el espacio necesario para tu clase híbrida, y el asesoramiento para su uso.</p>
-<p><a href="https://forms.gle/JjAqzSTogFajyYEQA" target="_blank" rel="noopener noreferrer">Formulario para solicitar el aula híbrida simultánea del CED</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>¿Cómo te podemos ayudar?</title>
-        <author>
-            <name>CED</name>
-        </author>
-        <link href="https://ced.agro.uba.ar/recursos/"/>
-        <id>https://ced.agro.uba.ar/recursos/</id>
-
-        <updated>2023-10-31T11:02:07-03:00</updated>
-            <summary>
-                <![CDATA[
-                    En el Centro ofrecemos asesoría tecnopedagógica y orientación en el uso de tecnologías para la educación para toda la FAUBA. Brindamos asesoramiento sobre el Campus Virtual Disponemos de un Aula Híbrida Simultánea Co-creamos Audiovisuales para educación Accedé a material sobre el manejo de herramientas, de&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>En el Centro ofrecemos <a href="https://ced.agro.uba.ar/asesoria-tecnopedagogica/">asesoría tecnopedagógica</a> y orientación en el uso de tecnologías para la educación para toda la FAUBA.</p>
-<p class="msg msg--info msg--highlight  "><a href="https://ced.agro.uba.ar/campus-virtual/"></a><a href="https://ced.agro.uba.ar/campus-virtual/">Brindamos asesoramiento sobre el Campus Virtual</a></p>
-<p class="msg msg--info"><a href="https://ced.agro.uba.ar/servicios/">Disponemos de un Aula Híbrida Simultánea</a></p>
-<p class="msg msg--highlight msg--info"><a href="https://ced.agro.uba.ar/audiovisuales/">Co-creamos Audiovisuales para educación</a></p>
-<hr>
-<h3>Tenemos material disponible</h3>
-<p>Accedé a material sobre el manejo de herramientas, de forma libre dentro del Campus:</p>
-<ul>
-<li>Tutoriales para el uso del Campus Virtual
-<ul>
-<li><a href="#INTERNAL_LINK#/post/null" title="https://youtu.be/yoBinC1giUQ?feature=shared">Armado de Cuestionarios</a></li>
-<li><a href="#INTERNAL_LINK#/post/null" title="https://youtu.be/6QIZVJKGrBo?feature=shared">Armado de Encuestas</a></li>
-</ul>
-</li>
-<li>Pizarras interactivas
-<ul>
-<li><a href="#INTERNAL_LINK#/post/null" title="https://www.youtube.com/watch?v=gHmx94g1Md0" target="_blank" rel="noopener noreferrer">Tutorial sobre Jamboard</a></li>
-<li><a href="#INTERNAL_LINK#/post/null" title="https://youtu.be/_F-h2jFegJA?feature=shared" target="_blank" rel="noopener noreferrer">Tutorial sobre Miro</a></li>
-</ul>
-</li>
-<li>Grabación de pantalla
-<ul>
-<li><a href="https://campus.agro.uba.ar/mod/url/view.php?id=124652" target="_blank" rel="noopener noreferrer">Tutorial sobre OBS</a></li>
-</ul>
-</li>
-<li>Multimedia
-<ul>
-<li><a href="https://youtu.be/OHU1Ak-sZOw?feature=shared" target="_blank" rel="noopener noreferrer">Tutorial para usar herramienta Geneally</a></li>
-</ul>
-</li>
-</ul>
-<p> </p>
-<p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Proyectos históricos</title>
-        <author>
-            <name>CED</name>
-        </author>
-        <link href="https://ced.agro.uba.ar/proyectos-historicos/"/>
-        <id>https://ced.agro.uba.ar/proyectos-historicos/</id>
-
-        <updated>2023-10-31T09:34:38-03:00</updated>
-            <summary>
-                <![CDATA[
-                    Desde su creación en el CED hemos co-realizado con diferentes cátedras una variedad de proyectos que listamos a continuación. https://ced.agro.uba.ar/ubatic/ 2022 Ver Gran Chaco, la película 2021 Jardín Botánico Virtual Jardín Botánico Virtual Ir a proyecto de jardín botánico virtual 2012 Ir a proyecto Gran&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Desde su creación en el <strong>CED</strong> hemos co-realizado con diferentes cátedras una variedad de proyectos que listamos a continuación.</p>
-<div class="post__toc">
-<h3>Proyectos:</h3>
-<ul>
-<li><a href="#mcetoc_1hlstdvj22i">Sustentabilidad en los sistemas agropecuarios y naturales</a></li>
-<li><a href="#mcetoc_1hlstdvj22j">Gran Chaco</a></li>
-<li><a href="#mcetoc_1hlstm6ub2s">Jardín Botánico Virtual </a></li>
-<li><a href="#mcetoc_1hlsveu5b5h">Ambiente y memoria social</a></li>
-<li><a href="#mcetoc_1hlsveu5b5i">Un Puente desde la Facultad hasta las escuelas agropecuarias</a></li>
-<li><a href="#mcetoc_1hlsveu5b5j">Maices Originarios</a></li>
-</ul>
-</div>
-<h3 id="mcetoc_1hlstdvj22i"><strong>Sustentabilidad en los sistemas agropecuarios y naturales</strong></h3>
-<figure class="post__image"><img loading="lazy"  src="https://ced.agro.uba.ar/media/posts/4/proyecto-portalsustentabilidad.png" alt="Portal Educativo sobre sustentabilidad" width="700" height="457" sizes="100vw" srcset="https://ced.agro.uba.ar/media/posts/4/responsive/proyecto-portalsustentabilidad-xs.png 300w ,https://ced.agro.uba.ar/media/posts/4/responsive/proyecto-portalsustentabilidad-sm.png 480w ,https://ced.agro.uba.ar/media/posts/4/responsive/proyecto-portalsustentabilidad-md.png 768w ,https://ced.agro.uba.ar/media/posts/4/responsive/proyecto-portalsustentabilidad-lg.png 1024w ,https://ced.agro.uba.ar/media/posts/4/responsive/proyecto-portalsustentabilidad-xl.png 1360w ,https://ced.agro.uba.ar/media/posts/4/responsive/proyecto-portalsustentabilidad-2xl.png 1600w"><figcaption>Portal sobre Sustentabilidad en los sistemas agropecuarios y naturales</figcaption></figure>
-<p><a href="https://ced.agro.uba.ar/ubatic/" target="_blank" rel="noopener noreferrer">https://ced.agro.uba.ar/ubatic/</a><br>2022</p>
-<h3 id="mcetoc_1hlstdvj22j"><strong>Gran Chaco, la película</strong></h3>
-<figure class="post__image"><img loading="lazy"  src="https://ced.agro.uba.ar/media/posts/4/proyecto-granchaco1-2.jpg" alt="Gran Chaco, la película" width="720" height="452" sizes="100vw" srcset="https://ced.agro.uba.ar/media/posts/4/responsive/proyecto-granchaco1-2-xs.jpg 300w ,https://ced.agro.uba.ar/media/posts/4/responsive/proyecto-granchaco1-2-sm.jpg 480w ,https://ced.agro.uba.ar/media/posts/4/responsive/proyecto-granchaco1-2-md.jpg 768w ,https://ced.agro.uba.ar/media/posts/4/responsive/proyecto-granchaco1-2-lg.jpg 1024w ,https://ced.agro.uba.ar/media/posts/4/responsive/proyecto-granchaco1-2-xl.jpg 1360w ,https://ced.agro.uba.ar/media/posts/4/responsive/proyecto-granchaco1-2-2xl.jpg 1600w"><figcaption>Gran Chaco, la película</figcaption></figure>
-<p><a href="https://www.youtube.com/watch?v=pskk4jWdXnA" target="_blank" rel="noopener noreferrer">Ver Gran Chaco, la película</a><br>2021</p>
-<h3 id="mcetoc_1hlstm6ub2s"><strong>Jardín Botánico Virtual </strong></h3>
-<figure class="post__image"><img loading="lazy"  src="https://ced.agro.uba.ar/media/posts/4/proyectos-botanico1.jpg" alt="Jardín Botánico Virtual" width="720" height="452" sizes="100vw" srcset="https://ced.agro.uba.ar/media/posts/4/responsive/proyectos-botanico1-xs.jpg 300w ,https://ced.agro.uba.ar/media/posts/4/responsive/proyectos-botanico1-sm.jpg 480w ,https://ced.agro.uba.ar/media/posts/4/responsive/proyectos-botanico1-md.jpg 768w ,https://ced.agro.uba.ar/media/posts/4/responsive/proyectos-botanico1-lg.jpg 1024w ,https://ced.agro.uba.ar/media/posts/4/responsive/proyectos-botanico1-xl.jpg 1360w ,https://ced.agro.uba.ar/media/posts/4/responsive/proyectos-botanico1-2xl.jpg 1600w"><figcaption>Jardín Botánico Virtual</figcaption></figure>
-<p><a href="https://ced.agro.uba.ar/botanicovirtual/" target="_blank" rel="noopener noreferrer"></a><a href="https://ced.agro.uba.ar/botanicovirtual/" target="_blank" rel="noopener noreferrer">Ir a proyecto de jardín botánico virtual</a> <br>2012</p>
-<h3 id="mcetoc_1hlsveu5b5h"><strong>Ambiente y memoria social</strong></h3>
-<figure class="post__image"><img loading="lazy"  src="https://ced.agro.uba.ar/media/posts/4/proyecto-ambienteymemoria.jpg" alt="Proyecto ambiente y memoria" width="720" height="452" sizes="100vw" srcset="https://ced.agro.uba.ar/media/posts/4/responsive/proyecto-ambienteymemoria-xs.jpg 300w ,https://ced.agro.uba.ar/media/posts/4/responsive/proyecto-ambienteymemoria-sm.jpg 480w ,https://ced.agro.uba.ar/media/posts/4/responsive/proyecto-ambienteymemoria-md.jpg 768w ,https://ced.agro.uba.ar/media/posts/4/responsive/proyecto-ambienteymemoria-lg.jpg 1024w ,https://ced.agro.uba.ar/media/posts/4/responsive/proyecto-ambienteymemoria-xl.jpg 1360w ,https://ced.agro.uba.ar/media/posts/4/responsive/proyecto-ambienteymemoria-2xl.jpg 1600w"><figcaption>Sitio web del proyecto Ambiente y Memoria social</figcaption></figure>
-<p><a href="https://ced.agro.uba.ar/gran-chaco/" target="_blank" rel="noopener noreferrer">Ir a proyecto Gran Chaco</a> <br>2020</p>
-<h3 id="mcetoc_1hlsveu5b5i"><strong>Un Puente desde la Facultad hasta las escuelas agropecuarias</strong></h3>
-<figure class="post__image"><img loading="lazy"  src="https://ced.agro.uba.ar/media/posts/4/proyecto-unpuente.jpg" alt="Un puente" width="720" height="452" sizes="100vw" srcset="https://ced.agro.uba.ar/media/posts/4/responsive/proyecto-unpuente-xs.jpg 300w ,https://ced.agro.uba.ar/media/posts/4/responsive/proyecto-unpuente-sm.jpg 480w ,https://ced.agro.uba.ar/media/posts/4/responsive/proyecto-unpuente-md.jpg 768w ,https://ced.agro.uba.ar/media/posts/4/responsive/proyecto-unpuente-lg.jpg 1024w ,https://ced.agro.uba.ar/media/posts/4/responsive/proyecto-unpuente-xl.jpg 1360w ,https://ced.agro.uba.ar/media/posts/4/responsive/proyecto-unpuente-2xl.jpg 1600w"><figcaption>Proyecto un Puente</figcaption></figure>
-<p>El proyecto Un Puente fue realizado con tecnología "Flash", actualmente no puede ser visualizado. <br>2019</p>
-<h3 id="mcetoc_1hlsveu5b5j"><strong>Maices Originarios</strong></h3>
-<figure class="post__image"><img loading="lazy"  src="https://ced.agro.uba.ar/media/posts/4/proyecto-maices.jpg" alt="Maices originarios, el documental" width="720" height="452" sizes="100vw" srcset="https://ced.agro.uba.ar/media/posts/4/responsive/proyecto-maices-xs.jpg 300w ,https://ced.agro.uba.ar/media/posts/4/responsive/proyecto-maices-sm.jpg 480w ,https://ced.agro.uba.ar/media/posts/4/responsive/proyecto-maices-md.jpg 768w ,https://ced.agro.uba.ar/media/posts/4/responsive/proyecto-maices-lg.jpg 1024w ,https://ced.agro.uba.ar/media/posts/4/responsive/proyecto-maices-xl.jpg 1360w ,https://ced.agro.uba.ar/media/posts/4/responsive/proyecto-maices-2xl.jpg 1600w"><figcaption>Maices originarios, el documental</figcaption></figure>
-<p><a href="https://vimeo.com/350374317" title="Documental Maices originarios" target="_blank" rel="noopener noreferrer">Ver el documental Maices originarios.</a> <br>2012</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>¿Qué es el CED?</title>
-        <author>
-            <name>CED</name>
-        </author>
-        <link href="https://ced.agro.uba.ar/quienes-somos/"/>
-        <id>https://ced.agro.uba.ar/quienes-somos/</id>
-
-        <updated>2023-10-31T09:29:25-03:00</updated>
-            <summary>
-                <![CDATA[
-                    El Centro de Educación a Distancia de FAUBA. La Facultad de Agronomía cuenta, desde el año 2001, con un Centro de Educación a Distancia encargado de la facilitación del uso de las TIC en el proceso de enseñanza y de aprendizaje en las carreras de&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <h1></h1>
-<p><strong><span style="color: #02192b;">E</span>l Centro de Educación a Distancia de FAUBA.</strong></p>
-<p>La Facultad de Agronomía cuenta, desde el año 2001, con un Centro de Educación a Distancia encargado de la facilitación del uso de las TIC en el proceso de enseñanza y de aprendizaje en las carreras de grado y posgrado de la institución.</p>
-<p><a href="RESCD-2023-1113.pdf" target="_blank" rel="noopener noreferrer">Ver la Resolución CED 2023</a></p>
-<h2>¿Quiénes somos?</h2>
-<p>El equipo del CED es un equipo interdiciplinario compuesto por diferentes profesionales.</p>
-<ul>
-<li>Mariela Szwarcberg Bracchitta,  <strong>Coordinadora</strong></li>
-<li>Verónica Fernández Bargiela,  <strong>Diseñadora de Imagen y Sonido</strong></li>
-<li>M. Agustina Ibañez, <strong>Asistente técnica educación distancia</strong></li>
-<li>Paula J. Repetto, <strong>Asistente de Educación a Distancia</strong>  </li>
-<li>Isabel Alberdi , <strong>Diseñadora gráfica</strong></li>
-</ul>
-<p class="msg msg--info"><a href="https://ced.agro.uba.ar/recursos/"><strong>¿Cómo te podemos ayudar?</strong></a></p>
-<p class="msg msg--info"><a href="https://ced.agro.uba.ar/proyectos-historicos/"><strong>Ver proyectos históricos</strong></a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Somos el Centro de Educación a Distancia de la FAUBA</title>
-        <author>
-            <name>CED</name>
-        </author>
-        <link href="https://ced.agro.uba.ar/ced/"/>
-        <id>https://ced.agro.uba.ar/ced/</id>
-
-        <updated>2023-10-31T09:24:36-03:00</updated>
-            <summary>
-                <![CDATA[
-                    Estamos detrás del Campus Virtual Contamos con un Aula Híbrida Simultánea Co-creamos material para educación a distancia Entrar al Campus Virtual Necesito asesoramiento sobre el Campus Virtual Quiero pedir el Aula Híbrida Simultánea del CED
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <figure class="post__image" ><figure class="post__image post__image--center"><img loading="lazy"  src="https://ced.agro.uba.ar/media/posts/1/CED-campus.jpg" alt="" width="350" height="200" sizes="100vw" srcset="https://ced.agro.uba.ar/media/posts/1/responsive/CED-campus-xs.jpg 300w ,https://ced.agro.uba.ar/media/posts/1/responsive/CED-campus-sm.jpg 480w ,https://ced.agro.uba.ar/media/posts/1/responsive/CED-campus-md.jpg 768w ,https://ced.agro.uba.ar/media/posts/1/responsive/CED-campus-lg.jpg 1024w ,https://ced.agro.uba.ar/media/posts/1/responsive/CED-campus-xl.jpg 1360w ,https://ced.agro.uba.ar/media/posts/1/responsive/CED-campus-2xl.jpg 1600w"></figure>
-<figcaption >Estamos detrás del Campus Virtual</figcaption>
-</figure>
-<figure class="post__image" ><a href="https://ced.agro.uba.ar/servicios/" title="aula híbrida"><figure class="post__image post__image--center"><img loading="lazy"  src="https://ced.agro.uba.ar/media/posts/1/CED-aulah-4.jpg" alt="" width="350" height="200" sizes="100vw" srcset="https://ced.agro.uba.ar/media/posts/1/responsive/CED-aulah-4-xs.jpg 300w ,https://ced.agro.uba.ar/media/posts/1/responsive/CED-aulah-4-sm.jpg 480w ,https://ced.agro.uba.ar/media/posts/1/responsive/CED-aulah-4-md.jpg 768w ,https://ced.agro.uba.ar/media/posts/1/responsive/CED-aulah-4-lg.jpg 1024w ,https://ced.agro.uba.ar/media/posts/1/responsive/CED-aulah-4-xl.jpg 1360w ,https://ced.agro.uba.ar/media/posts/1/responsive/CED-aulah-4-2xl.jpg 1600w"></figure></a>
-<figcaption >Contamos con un <br>Aula Híbrida Simultánea</figcaption>
-</figure>
-<figure class="post__image" ><a href="https://ced.agro.uba.ar/proyectos-historicos/" title="proyectos"><figure class="post__image post__image--center"><img loading="lazy"  src="https://ced.agro.uba.ar/media/posts/1/CED-material-3.jpg" alt="" width="350" height="200" sizes="100vw" srcset="https://ced.agro.uba.ar/media/posts/1/responsive/CED-material-3-xs.jpg 300w ,https://ced.agro.uba.ar/media/posts/1/responsive/CED-material-3-sm.jpg 480w ,https://ced.agro.uba.ar/media/posts/1/responsive/CED-material-3-md.jpg 768w ,https://ced.agro.uba.ar/media/posts/1/responsive/CED-material-3-lg.jpg 1024w ,https://ced.agro.uba.ar/media/posts/1/responsive/CED-material-3-xl.jpg 1360w ,https://ced.agro.uba.ar/media/posts/1/responsive/CED-material-3-2xl.jpg 1600w"></figure></a>
-<figcaption >Co-creamos material <br>para educación a distancia</figcaption>
-</figure>
-<p> </p>
-<p class="align-center"><a href="https://campus.agro.uba.ar" class="btn hero__btn" target="_blank" rel="noopener noreferrer">Entrar al Campus Virtual</a></p>
-<p class="msg msg--info msg--highlight  "><strong><a href="https://ced.agro.uba.ar/campus-virtual/">Necesito asesoramiento sobre el Campus Virtual</a></strong></p>
-<p class="msg msg--info"><strong><a href="https://ced.agro.uba.ar/servicios/">Quiero pedir el Aula Híbrida Simultánea del CED</a></strong></p>
-<h3>Para conocer al CED</h3>
-<ul>
-<li><a href="https://ced.agro.uba.ar/quienes-somos/"><strong>¿Qué es el CED?</strong></a> Quiénes somos, qué hacemos, nuestra historia. <a href="https://ced.agro.uba.ar/quienes-somos/">leer más</a></li>
-<li><a href="https://ced.agro.uba.ar/recursos/"><strong>¿Cómo te podemos ayudar?</strong></a> Estamos dentro de FAUBA, te ayudamos con el Campus virtual, las Aulas híbridas, la realización de audiovisuales, y otros recursos para la enseñanza a distancia. <a href="https://ced.agro.uba.ar/recursos/">leer más</a></li>
-</ul>
-<p> </p>
+                <p>¿Querés aprender a incorporar herramientas tecnológicas en tus clases? ¿Tenés un/a experto/a que no puede venir a tu clase pero sería muy enriquecedor que le cuente sus saberes a tus estudiantes y luego tus estudiantes le hagan algunas preguntas? ¿Querés incorporar algunos videos explicativos o cuestionarios autogestionados? etc.). En el CED brindamos asesorías tecnopedagógica.</p>
+<p>Acercate estamos en el pabellón de Bioquimica, hablemos y contruyamos juntos.</p>
             ]]>
         </content>
     </entry>
